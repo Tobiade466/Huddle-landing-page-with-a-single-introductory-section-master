@@ -46,7 +46,7 @@ button{
 
 @media screen and (max-width:375px){
     .background{
-        background-image:url(images/bg-mobile.svg);
+        background-image:url(bg-mobile.svg);
         background-repeat: no-repeat;
         text-align: center;
     }
