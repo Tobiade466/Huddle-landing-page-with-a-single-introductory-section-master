@@ -3,7 +3,7 @@ html,body{
     font-family: Open sans;
 }
 .image{
-    background-image:url(images/bg.svg);
+    background-image:url(bg-mobile.svg);
     background-repeat: no-repeat;
     background-size: contain;
     display: grid;
